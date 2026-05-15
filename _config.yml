@@ -14,7 +14,7 @@ name                     : &name "Anandita Bardia"
 description              : &description "Anandita Bardia's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 
 site_theme               : "dirt"
-url                      : https://ananditabardia.github.io
+url                      : "https://ananditabardia.github.io"
 repository               : "ananditabardia/ananditabardia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
