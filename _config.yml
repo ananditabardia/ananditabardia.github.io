@@ -22,7 +22,7 @@ repository               : "ananditabardia/ananditabardia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Anandita Bardia"
   bio              : "PhD candidate in Economics at Erasmus School of Economics. Research at the intersection of health, behavioural, and development economics."
   location         : "Rotterdam, Netherlands"
