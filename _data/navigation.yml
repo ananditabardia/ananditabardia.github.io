@@ -9,11 +9,14 @@
 
 main:
 
-#  - title: "Talks"
-#    url: /talks/    
+ - title: "Research"
+   url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "CV"
+    url: /cv/
     
  # - title: "Portfolio"
  #   url: /portfolio/
@@ -21,8 +24,7 @@ main:
   - title: "Miscellaneous"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/
