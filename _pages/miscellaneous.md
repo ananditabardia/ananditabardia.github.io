@@ -8,7 +8,7 @@ author_profile: true
 Things I do when I'm not working.
 
 - **[Strava](https://strava.app.link/kWdppU1wW5b)** — running
-- **[Letterboxd](https://boxd.it/2tddJ)** — what I've been watching and reviewing.
+- **[Letterboxd](https://boxd.it/2tddJ)** — what I've been watching and reviewing
 
 I shoot on a Sony RX100. A few favourites:
 ## Photography
