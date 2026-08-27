@@ -7,21 +7,6 @@ author_profile: true
 
 ## Research in Progress
 
-**Understanding and Overcoming Low Preventive Medication Adherence in Pregnancy**
-*with Igna Bonfrer, Pilar Garcia-Gomez and Carlos Riumallo Herl*
-
-<details>
-<summary>Abstract</summary>
-
-Adherence to preventive medication remains low even where cost and access barriers have largely been removed, pointing to behavioural rather than structural constraints. We study iron and folic acid supplementation among pregnant women in Bihar, India, where fewer than one in five women complete the recommended 100-day course despite free distribution and near-universal facility-level stock. We run a village-level randomised controlled trial with three arms: an education session on anaemia alone, education plus home-visit reminders, and reminders combined with the involvement of household members present at the visit. The first comparison identifies the effect of reminders and information; the second identifies the additional effect of household involvement. At endline we measure haemoglobin alongside self-reported adherence, beliefs, and perceived norms, allowing us to characterise the channels behind any effects.
-
-</details>
----
-
-**Cousin Rivalry, Resource Dilution, and Gender Gaps in Child Health Investment in Extended Indian Households**
-*Solo-authored*
-
----
 
 **Sister-in-Law Rivalry: Intra-Household Competition and Fertility under Son Preference in India**
 *with Igna Bonfrer, Pilar Garcia-Gomez and Carlos Riumallo Herl*
@@ -29,11 +14,20 @@ Adherence to preventive medication remains low even where cost and access barrie
 <details>
 <summary>Abstract</summary>
 
-Work on son preference has focused on individual fertility choices, but in multi-generational households in India these decisions are influenced by co-resident. We ask whether competition between sisters-in-law affects fertility behaviour, using the quasi-random sex of a sister-in-law's first-born child as our source of variation. Drawing on three rounds of the National Family Health Survey (2005–06, 2015–16, 2019–21) and household fixed effects, we find that women whose sister-in-law's first-born is a son are 4.6 percentage points less likely to use contraception and 10.9 percentage points more likely to have more than two children, alongside a large increase in son-stopping behaviour. Results are robust across an enhanced-competition subsample and an across-household specification. The findings suggest that policies aimed at reducing gender bias should account for extended family structure and intra-household peer effects.
+Work on son preference has focused on individual fertility choices, but in multi-generational households in India these decisions are influenced by competition within household. We ask whether competition between sisters-in-law affects fertility behaviour, using the quasi-random sex of a sister-in-law's first-born child as our source of variation. Drawing on three rounds of the National Family Health Survey (2005–06, 2015–16, 2019–21) and household fixed effects, we find that women whose sister-in-law's first-born is a son are 4.6 percentage points less likely to use contraception and 10.9 percentage points more likely to have more than two children, alongside a large increase in son-stopping behaviour. Results are robust across an enhanced-competition subsample and an across-household specification. The findings suggest that policies aimed at reducing gender bias should account for extended family structure and intra-household peer effects.
 
 </details>
 ---
 
+**Understanding and Overcoming Low Preventive Medication Adherence in Pregnancy**
+*with Igna Bonfrer, Pilar Garcia-Gomez and Carlos Riumallo Herl*
+
+---
+
+**Cousin Rivalry, Resource Dilution, and Gender Gaps in Child Health Investment in Extended Indian Households**
+*Solo-authored*
+
+---
 **Motherly Advice: Effects of a Digital Patient Feedback Platform on Quality of Delivery Care in India**
 *with Sumiti Saharan and Igna Bonfrer*
 
