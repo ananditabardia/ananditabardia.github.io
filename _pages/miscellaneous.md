@@ -55,4 +55,10 @@ I shoot on a Sony RX100. A few favourites:
     <figcaption style="font-size: 0.8em; opacity: 0.7; margin-top: 6px;">clouds over</figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+    <img src="/images/photos/DSC03963.JPG" alt="ray of hope" style="width: 100%; height: 200px; object-fit: cover; border-radius: 4px;">
+    <figcaption style="font-size: 0.8em; opacity: 0.7; margin-top: 6px;">ray of hope</figcaption>
+  </figure>
+
+
 </div>
