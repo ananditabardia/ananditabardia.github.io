@@ -13,7 +13,15 @@ I am a fourth-year PhD candidate in Economics at the [Erasmus School of Economic
 
 My research interests lie at the intersection of health, behavioural, and development economics, with a focus on maternal and infant health outcomes in low- and middle-income countries.
 
-I am currently working on four projects. The first is a field experiment on medication adherence among pregnant women in rural India, looking at whether reminders, information, and involving household members to improve adherence to medication. Two other projects focus on extended households in India, one on how competition between cousins affects gender gaps in child health investment, and one on how competition between sisters-in-law affects fertility behaviour in presence of son preference. The fourth looks at whether giving health workers feedback from recent mothers improves the quality of delivery care, using a digital feedback platform rolled out across 135 facilities.
+I am currently working on four projects.
+
+**Medication adherence in pregnancy.** A field experiment in rural Bihar, India, to understand and overcome behavioural barriers to improve medication adherence.
+
+**Cousin competition and child health investment.** How competition between cousins in extended households affects gender gaps in child health investment.
+
+**Sister-in-law competition and fertility.** How competition between sisters-in-law affects fertility behaviour in presence of son preference.
+
+**Feedback and quality of delivery care.** Whether giving health workers feedback from recent mothers improves the quality of delivery care, using a digital feedback platform rolled out across 135 facilities.
 
 [Download my CV (PDF)](/files/cv.pdf){: .btn .btn--primary}
 <style>
