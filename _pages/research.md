@@ -8,7 +8,7 @@ author_profile: true
 ## Research in Progress
 
 
-**Sister-in-Law Rivalry: Intra-Household Competition and Fertility under Son Preference in India**
+**How Does Intra-household Competition Influence Fertility Behaviour in Presence of Social Norms in India?**
 *with Igna Bonfrer, Pilar Garcia-Gomez and Carlos Riumallo Herl*
 
 ---
