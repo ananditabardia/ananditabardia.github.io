@@ -21,7 +21,6 @@ Adherence to preventive medication remains low even where cost and access barrie
 
 **Motherly Advice: Effects of a Digital Patient Feedback Platform on Quality of Delivery Care in India**
 *with Sumiti Saharan and Igna Bonfrer*
-Draft in progress.
 
 <details>
 <summary>Abstract</summary>
@@ -34,7 +33,6 @@ India has made substantial progress on maternal health but still accounts for 7.
 
 **Cousin Rivalry, Resource Dilution, and Gender Gaps in Child Health Investment in Extended Indian Households**
 *Solo-authored*
-Draft in progress.
 
 <details>
 <summary>Abstract</summary>
@@ -47,7 +45,6 @@ I study how gender gaps in parental investment in child health arise from compet
 
 **Sister-in-Law Rivalry: Intra-Household Competition and Fertility under Son Preference in India**
 *with Igna Bonfrer, Pilar Garcia-Gomez and Carlos Riumallo Herl*
-Draft in progress.
 
 <details>
 <summary>Abstract</summary>
