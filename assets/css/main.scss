@@ -54,11 +54,12 @@ a {
 }
 
 .author__avatar img {
-  max-width: 320px !important;
+  max-width: 260px !important;
 }
 
-@media (min-width: 80em) {
+@media (min-width: 57.8125em) {
   .sidebar {
-    max-width: 320px !important;
+    width: 260px !important;
+    max-width: 260px !important;
   }
 }
