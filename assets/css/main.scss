@@ -54,5 +54,11 @@ a {
 }
 
 .author__avatar img {
-  border-color: #C99AA6 !important;
+  max-width: 320px !important;
+}
+
+@media (min-width: 80em) {
+  .sidebar {
+    max-width: 320px !important;
+  }
 }
