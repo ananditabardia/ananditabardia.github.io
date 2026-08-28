@@ -34,27 +34,25 @@
 ;
 
 /* dusty pink */
+:root {
+  --link-color: #A9677A;
+  --link-color-hover: #8A4E60;
+  --link-color-visited: #8A4E60;
+  --footer-background-color: #E8D0D4;
+}
+
 .page__footer {
-  background-color: #E8D0D4;
+  background-color: #E8D0D4 !important;
 }
 
 a {
-  color: #A9677A;
-}
-
-a:hover {
-  color: #8A4E60;
-}
-
-.page__title,
-.archive__item-title {
-  border-bottom-color: #C99AA6;
+  color: #A9677A !important;
 }
 
 .btn--primary {
-  background-color: #A9677A;
+  background-color: #A9677A !important;
 }
 
 .author__avatar img {
-  border-color: #C99AA6;
+  border-color: #C99AA6 !important;
 }
