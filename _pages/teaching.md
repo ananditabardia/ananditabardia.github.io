@@ -7,16 +7,19 @@ author_profile: true
 
 ## Erasmus School of Economics
 
-**Teaching Assistant**, 2023–2026
+**Lecturer**, 2026
 
 | Seminar Behaviour, Health and Wellbeing (BSc) | 2026 |
+
+**Teaching Assistant**, 2023–2025
+
 | Impact Evaluation (BSc) | 2025 |
 | Introduction to Econometrics (BSc) | 2023, 2024 |
 
 **Bachelor's Thesis Supervision**
 
 | Strategy — 8 theses | 2025 |
-| Health and Behaviour — 12 theses | 2024-2026 |
+| Health and Behaviour — 12 theses | 2024–2026 |
 
 ## Ashoka University
 
